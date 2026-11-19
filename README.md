@@ -9,11 +9,15 @@ M.Sc. Applied Computer Science student at **Technische Hochschule Deggendorf**, 
 - 🌱 Learning: Spring Boot, REST API design, SQL databases, CI/CD with GitHub Actions
 - 🇩🇪 Based in Germany · English (C1), German (A2)
 
-## Featured project
+## Featured projects
 
 **[Patient Appointment API](https://github.com/anaghaprabesh1/patient-appointment-api)**: a Spring Boot REST
 backend for hospital appointments with a SQL database, input validation, double-booking protection, and unit and
 integration tests running on GitHub Actions.
+
+**[ER Triage Queue](https://github.com/anaghaprabesh1/er-triage-queue)**: a plain Java 17 library that decides
+which emergency patient is seen next, using a priority queue with fair deadline-based ordering, overdue detection,
+thread safety and JUnit 5 tests.
 
 ## Tech
 
